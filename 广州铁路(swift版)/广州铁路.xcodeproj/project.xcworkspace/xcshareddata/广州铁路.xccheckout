@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>428ED773-6926-4A25-B12E-25C08A17DF6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>广州铁路</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B08FA0679CD2997461CBB3D1B7FE432B547E3D42</key>
+		<string>https://bitbucket.org/michan_MC/guangzhoutielu-swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>广州铁路.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B08FA0679CD2997461CBB3D1B7FE432B547E3D42</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/michan_MC/guangzhoutielu-swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B08FA0679CD2997461CBB3D1B7FE432B547E3D42</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B08FA0679CD2997461CBB3D1B7FE432B547E3D42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E5%B9%BF%E5%B7%9E%E9%93%81%E8%B7%AF(Swift%E7%89%88)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
